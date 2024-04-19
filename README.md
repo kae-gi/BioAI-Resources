@@ -67,7 +67,7 @@ Emily K. Makowski, Patrick C. Kinnunen, Jie Huang, Lina Wu, Matthew D. Smith, Ti
 *Nature Communications, July 2022*  \
 [[nature communications](https://doi.org/10.1038/s41467-022-31457-3)]
 
-**Attention Is All You Need**  \
+**Attention Is All You Need (Transformer Original Paper)**  \
 Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin  \
 *NIPS December 2017*  \
 [[arxiv](https://arxiv.org/pdf/1706.03762.pdf)]
