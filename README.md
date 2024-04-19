@@ -26,3 +26,23 @@ Opher Lieber, Barak Lenz, Hofit Bata, Gal Cohen, Jhonathan Osin, Itay Dalmedigos
 Eric Nguyen, Michael Poli, Matthew G. Durrant, Armin W. Thomas, Brian Kang, Jeremy Sullivan, Madelena Y. Ng, Ashley Lewis, Aman Patel, Aaron Lou, Stefano Ermon, Stephen A. Baccus, Tina Hernandez-Boussard, Christopher Ré, Patrick D. Hsu, Brian L. Hie  \
 *Preprint, March 2024*  \
 [[biorxiv](https://www.biorxiv.org/content/10.1101/2024.02.27.582234v2.full.pdf+html)]
+
+**Generative AI for designing and validating easily synthesizable and structurally novel antibiotics**  \
+Kyle Swanson, Gary Liu, Denise B. Catacutan, Autumn Arnold, James Zou, Jonathan M. Stokes  \
+*Nature Machine Intelligence, March 2024*  \
+[[nature machine intelligence](https://doi.org/10.1038/s42256-024-00809-7)]
+
+**Machine learning for antimicrobial peptide identification and design**  \
+Fangping Wan, Felix Wong, James J. Collins, Cesar de la Fuente-Nunez \
+*Nature Reviews Bioengineering February 2024*  \
+[[nature reviews bioengineering](https://doi.org/10.1038/s44222-024-00152-x)]
+
+**AlphaFill: enriching AlphaFold models with ligands and cofactors**  \
+Maarten L. Hekkelman, Ida de Vries, Robbie P. Joosten, Anastassis Perrakis  \
+*Nature Methods, November 2022*  \
+[[nature methods](https://doi.org/10.1038/s41592-022-01685-y)]
+
+**Co-optimization of therapeutic antibody affinity and specificity using machine learning models that generalize to novel mutational space**  \
+Emily K. Makowski, Patrick C. Kinnunen, Jie Huang, Lina Wu, Matthew D. Smith, Tiexin Wang, Alec A. Desai, Craig N. Streu, Yulei Zhang, Jennifer M. Zupancic, John S. Schardt, Jennifer J. Linderman, Peter M. Tessie  \
+*Nature Communications, July 2022*  \
+[[nature communications](https://doi.org/10.1038/s41467-022-31457-3)]
