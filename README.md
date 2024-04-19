@@ -8,6 +8,7 @@ I'm going to keep this public because the hope is to be a useful resource for an
 ML Guide: https://machinelearningmastery.com/start-here/  \
 ML Cheatsheet: https://s3.amazonaws.com/assets.datacamp.com/email/other/ML+Cheat+Sheet_2.pdf \
 Another github for AI/ML papers, applied to proteins specifically: https://github.com/yangkky/Machine-learning-for-proteins
+### WIP - Acronym/vocab
 
 ## Papers
 ### Journal Club Papers - Presented
