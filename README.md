@@ -12,16 +12,14 @@ Another github for AI/ML papers, applied to proteins specifically: https://githu
 ## Papers
 ### Journal Club Papers - Presented
 
+- **Jamba: A Hybrid Transformer-Mamba Language Model** 
+---
+### Starting list (WIP, will list newest to oldest, update with categories as we get more papers)
+
 **Jamba: A Hybrid Transformer-Mamba Language Model**  \
 Opher Lieber, Barak Lenz, Hofit Bata, Gal Cohen, Jhonathan Osin, Itay Dalmedigos, Erez Safahi, Shaked Meirom, Yonatan Belinkov, Shai Shalev-Shwartz, Omri Abend, Raz Alon, Tomer Asida, Amir Bergman, Roman Glozman, Michael Gokhman, Avashalom Manevich, Nir Ratner, Noam Rozen, Erez Shwartz, Mor Zusman, Yoav Shoham  \
 *Preprint, March 2024*  \
 [[arxiv](https://arxiv.org/pdf/2403.19887.pdf)] 
-
----
-### Categories
-Reviews, etc. (WIP)
-
-#### Starting list (WIP)
 
 **Sequence modeling and design from molecular to genome scale with Evo**  \
 Eric Nguyen, Michael Poli, Matthew G. Durrant, Armin W. Thomas, Brian Kang, Jeremy Sullivan, Madelena Y. Ng, Ashley Lewis, Aman Patel, Aaron Lou, Stefano Ermon, Stephen A. Baccus, Tina Hernandez-Boussard, Christopher Ré, Patrick D. Hsu, Brian L. Hie  \
