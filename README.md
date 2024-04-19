@@ -1,4 +1,4 @@
-# BioAI - Papers, Resources, etc. 
+# BioAI/ML - Papers, Resources, etc. 
 
 Hello! The goal of this repo is to help keep track of papers and resources that are focused on machine learning/artificial intelligence applied in biology, medicine, pharmacology, and other life science related topics. 
 
