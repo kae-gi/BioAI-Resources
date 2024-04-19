@@ -1,13 +1,15 @@
 # BioAI/ML - Papers, Resources, etc. 
 
-Hello! The goal of this repo is to help keep track of papers and resources that are focused on machine learning/artificial intelligence applied in biology, medicine, pharmacology, and other life science related topics. 
+Hello! The goal of this repo is to help keep track of papers and resources that are focused on machine learning/artificial intelligence applied in biology, medicine, pharmacology, and other life science related topics. I'll also include papers that focus on model architectures as well.
 
 I'm going to keep this public because the hope is to be a useful resource for anyone interested in this field.  
 
 ## Resources
 ML Guide: https://machinelearningmastery.com/start-here/  \
-ML Cheatsheet: https://s3.amazonaws.com/assets.datacamp.com/email/other/ML+Cheat+Sheet_2.pdf \
+ML Cheatsheet: https://s3.amazonaws.com/assets.datacamp.com/email/other/ML+Cheat+Sheet_2.pdf  \
+HuggingFace: https://huggingface.co/  \
 Another github for AI/ML papers, applied to proteins specifically: https://github.com/yangkky/Machine-learning-for-proteins
+
 ### WIP - Acronym/vocab
 
 ## Papers
@@ -51,6 +53,11 @@ Zhuoran Qiao, Weili Nie, Arash Vahdat, Thomas F. Miller III, Animashree Anandkum
 Anand Ramachandran, Steven S. Lumetta, Deming Chen  \
 *PLOS Computational Biology, January 2024* \
 [[PLOS Computational Biology](https://doi.org/10.1371/journal.pcbi.1011790)]
+
+**Mamba: Linear-Time Sequence Modeling with Selective State Spaces**  \
+Albert Gu, Tri Dao  \
+*December 2023*  \
+[[arxiv](https://doi.org/10.48550/arXiv.2312.00752)]
 
 **Predicting the antigenic evolution of SARS-COV-2 with deep learning**  \
 Wenkai Han, Ningning Chen, Xinzhou Xu, AdilSahil, Juexiao Zhou, Zhongxiao Li, Huawen Zhong, Elva Gao, Ruochi Zhang6, Yu Wang, Shiwei Sun, Peter Pak-Hang Cheung Xin Gao  \
