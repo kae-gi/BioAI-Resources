@@ -34,8 +34,28 @@ Kyle Swanson, Gary Liu, Denise B. Catacutan, Autumn Arnold, James Zou, Jonathan 
 
 **Machine learning for antimicrobial peptide identification and design**  \
 Fangping Wan, Felix Wong, James J. Collins, Cesar de la Fuente-Nunez \
-*Nature Reviews Bioengineering February 2024*  \
+*Nature Reviews Bioengineering, February 2024*  \
 [[nature reviews bioengineering](https://doi.org/10.1038/s44222-024-00152-x)]
+
+**Machine learning for functional protein design**  \
+Pascal Notin1, Nathan Rollins, Yarin Gal, Chris Sander, Debora Marks  \
+*Nature Biotechnology, February 2024*  \
+[[nature biotechnology](https://doi.org/10.1038/s41587-024-02127-0)]
+
+**State-specific protein–ligand complex structure prediction with a multiscale deep generative model**  \
+Zhuoran Qiao, Weili Nie, Arash Vahdat, Thomas F. Miller III, Animashree Anandkumar  \
+*Nature Machine Intelligence, February 2024* \
+[[nature machine intelligence](https://doi.org/10.1038/s42256-024-00792-z)]
+
+**PandoGen: Generating complete instances of future SARS-CoV-2 sequences using Deep Learning**  \
+Anand Ramachandran, Steven S. Lumetta, Deming Chen  \
+*PLOS Computational Biology, January 2024* \
+[[PLOS Computational Biology](https://doi.org/10.1371/journal.pcbi.1011790)]
+
+**Predicting the antigenic evolution of SARS-COV-2 with deep learning**  \
+Wenkai Han, Ningning Chen, Xinzhou Xu, AdilSahil, Juexiao Zhou, Zhongxiao Li, Huawen Zhong, Elva Gao, Ruochi Zhang6, Yu Wang, Shiwei Sun, Peter Pak-Hang Cheung Xin Gao  \
+*Nature Communications, June 2023* \
+[[nature communications](https://doi.org/10.1038/s41467-023-39199-6)]
 
 **AlphaFill: enriching AlphaFold models with ligands and cofactors**  \
 Maarten L. Hekkelman, Ida de Vries, Robbie P. Joosten, Anastassis Perrakis  \
