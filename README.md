@@ -16,7 +16,7 @@ Another github for AI/ML papers, applied to proteins specifically: https://githu
 ### Journal Club Papers - Presented
 
 - **Jamba: A Hybrid Transformer-Mamba Language Model**
-- **State-specific protein–ligand complex structure prediction with a multiscale deep generative model
+- **State-specific protein–ligand complex structure prediction with a multiscale deep generative model**
 ---
 ### Starting list (WIP, will list newest to oldest, update with categories as we get more papers)
 
